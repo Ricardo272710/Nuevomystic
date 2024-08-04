@@ -3828,8 +3828,8 @@
             ]
         },
         "participantsUpdate": {
-            "texto1": "*╭┈⊰* @subject *⊰┈ ✦*\n*┊✨ BIENVENIDO(A)!!*\n┊💖 @user\n┊📄 *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*\n${String.fromCharCode(8206).repeat(850)}\n@desc",
-            "texto2": "👋 Goodbye!\n@user",
+            "texto1": "*╭┈⊰*@subject*⊰┈ ✦*\n*┊✨ BIENVENIDO(A)!!*\n┊💖 @user\n┊📄 *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*\n${String.fromCharCode(8206).repeat(850)}\n@desc",
+            "texto2": "👋 ╭┈⊰*@subject*⊰┈ ✦*\n*┊✨ BIENVENIDO(A)!!*\n┊💖 @user\n┊📄 *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*\n${String.fromCharCode(8206).repeat(850)}\n@desc",
             "texto3": "*[ ℹ️ ] @user has been promoted to administrator.*",
             "texto4": "*[ ℹ️ ] @user has been demoted from administrator.*",
             "texto5": "*[ ℹ️ ] The group description has been modified.*",
